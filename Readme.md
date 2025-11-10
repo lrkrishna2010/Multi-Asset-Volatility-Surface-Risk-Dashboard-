@@ -13,11 +13,3 @@ This project calculates **volatility surfaces** for multiple assets, simulates *
 - Interactive dashboard with `plotly`
 
 ---
-
-## Installation
-
-```bash
-git clone https://github.com/yourusername/multi_asset_vol_surface.git
-cd multi_asset_vol_surface
-pip install -r requirements.txt
-# Multi-Asset-Volatility-Surface-Risk-Dashboard-
